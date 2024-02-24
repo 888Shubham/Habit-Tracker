@@ -95,8 +95,11 @@ The Habit Tracker app enables users to create and manage their habits effectivel
 
 Contributions are welcome! Please create a new branch for your changes and submit a pull request for review.
 
+## Hosted URL
+You can access the deployed Habit Tracker app [here](https://habit-tracker-g3h8.onrender.com).
 
-##Screenshots
+
+## Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 1](screenshots/screenshot2.png)
 ![Screenshot 1](screenshots/screenshot3.png)
